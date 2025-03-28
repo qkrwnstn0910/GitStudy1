@@ -11,6 +11,7 @@ public class GitFirst {
 		System.out.println(adf);
 		System.out.println(adf);
 		System.out.println("5.학원에서 작업");
+		System.out.println("5-1.집에서 작업 2");
 		
 	}
 
